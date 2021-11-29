@@ -2,6 +2,10 @@
 
 ## Latihan 1
 
+NAMA : ZAINAL ABIDIN
+KELAS : TI.21.C1
+NIM: 312110105
+
 Latihan yang pertama adalah membuat daftar dengan menulis:
 
 daftar = []
