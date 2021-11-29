@@ -72,7 +72,7 @@ dan berikut adalaha hasil perogramnya :
 
 berikut flowchartnya
 
-![gambar](ss/ss.5png)
+![gambar](ss/ss5.png)
 
 Berukut perogramnya 
 
